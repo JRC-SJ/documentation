@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Observeasy Documentation',
+  title: 'Observeasy Documentation Site',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.png',
 
